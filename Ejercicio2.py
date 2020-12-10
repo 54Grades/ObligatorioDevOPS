@@ -42,7 +42,7 @@ except SystemExit as e:
     print("Estimado Humano/a, la sintaxis de este script es: Ejercicio2.py [-r] [-t] [-d dom] [-e {d,t,c}] [-f RegExp] [-o {a,d,l}] Dir")
     exit(20)
 
-parametrobash = ['/home/grades/Desktop/devopsobligatorio/Ejercicio1.sh']
+parametrobash = ['/home/emu/Desktop/devopsobligatorio/Ejercicio1.sh']
 
 if args.rec:
         parametrobash.append("-r")
